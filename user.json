@@ -6,7 +6,12 @@
     },
     {
         "device_id": "",
-        "expire": "23-09-2024",
+        "expire": "14-09-2024",
         "nama": "trial"
+    },
+    {
+        "device_id": "40670430751282",
+        "expire": "14-09-2026",
+        "nama": "suci"
     }
 ]
